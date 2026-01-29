@@ -67,7 +67,7 @@ These differences highlight strong opportunities for targeted conversion strateg
 ---
 
 ### Rides by Day of Week
-![Rides by Day of Week](03_rides_by_day_of_week.png)
+![Rides by Day of Week](3_rides_by_day_of_week.png)
 
 **Insight:** Casual riders show stronger weekend usage, while members maintain consistent weekday riding patterns.
 
