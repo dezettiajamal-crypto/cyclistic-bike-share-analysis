@@ -53,21 +53,21 @@ These differences highlight strong opportunities for targeted conversion strateg
 ## 📈 Key Visualizations
 
 ### Total Rides by Rider Type
-![Total Rides by Rider Type](visuals 01_total_rides_by_rider_type.png)
+![Total Rides by Rider Type](/visuals 01_total_rides_by_rider_type.png)
 
 **Insight:** Annual members account for the majority of rides, indicating high-frequency, repeat usage.
 
 ---
 
 ### Average Ride Duration by Rider Type
-![Average Ride Duration](visuals 02_avg_ride_duration_by_rider_type_trimmed.png)
+![Average Ride Duration](/visuals 02_avg_ride_duration_by_rider_type_trimmed.png)
 
 **Insight:** Casual riders take significantly longer trips, supporting leisure-oriented behavior.
 
 ---
 
 ### Rides by Day of Week
-![Rides by Day of Week](visuals 03_rides_by_day_of_week.png)
+![Rides by Day of Week]( /visuals 03_rides_by_day_of_week.png)
 
 **Insight:** Casual riders show stronger weekend usage, while members maintain consistent weekday riding patterns.
 
