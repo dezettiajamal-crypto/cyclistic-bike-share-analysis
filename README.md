@@ -60,7 +60,7 @@ These differences highlight strong opportunities for targeted conversion strateg
 ---
 
 ### Average Ride Duration by Rider Type
-![Average Ride Duration](02_avg_ride_duration_by_rider_type_trimmed.png)
+![Average Ride Duration](02_avg_ride_duration_by_rider_type.png)
 
 **Insight:** Casual riders take significantly longer trips, supporting leisure-oriented behavior.
 
