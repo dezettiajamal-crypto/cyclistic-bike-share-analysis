@@ -52,6 +52,8 @@ These differences highlight strong opportunities for targeted conversion strateg
 
 ## 📈 Key Visualizations
 
+## 📈 Key Visualizations
+![...](visuals/...)
 
 
 
