@@ -51,10 +51,14 @@ These differences highlight strong opportunities for targeted conversion strateg
 ---
 
 ## 📈 Key Visualizations
-
-## 📈 Key Visualizations
 ![...](visuals/...)
 
+## 📊 Power BI Dashboard
+
+The final visual analysis was built in **Power BI** using summary-level data exported from R.  
+This dashboard highlights key behavioral differences between casual riders and annual members to support data-driven marketing decisions.
+
+![Power BI Dashboard](powerbi/powerbi_cyclistic_dashboard.png)
 
 
 The analysis includes visualizations covering:
